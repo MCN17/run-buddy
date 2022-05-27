@@ -12,3 +12,6 @@ https://mcn17.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Marty Nolan
+
+
+### ©️2019 Run Buddy, Inc
